@@ -48,3 +48,7 @@ c) Implementation of additional features or functionalities to extend the capabi
 d) Bug fixes and optimizations to enhance the performance and reliability of the project.
 
 e) Documentation improvements to provide clear instructions for users and contributors.
+
+**Ouput:**
+
+Accuracy - **94.10**%
