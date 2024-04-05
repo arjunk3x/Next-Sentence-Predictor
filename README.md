@@ -2,11 +2,11 @@
 
 This project implements a next sentence predictor using LSTMs, achieving an accuracy of approximately 95%. It employs techniques such as tokenization, TF-IDF vectorization, and word embeddings to enhance training efficiency and prediction accuracy.
 
-*Overview:*
+***Overview:***
 
 The Next Sentence Predictor project aims to predict the next sentence in a sequence using LSTM (Long Short-Term Memory) networks. This task is crucial in various natural language processing applications, including language modeling and text generation. The project utilizes techniques such as tokenization, TF-IDF vectorization, and word embeddings to preprocess the input data and trains a deep learning model to make accurate predictions.
 
-*Technologies Used:*
+***Technologies Used:***
 
 1) TensorFlow
 
@@ -34,7 +34,7 @@ The Next Sentence Predictor project aims to predict the next sentence in a seque
 
 *Achieved Accuracy:* The project achieves an accuracy of around 95%, demonstrating the effectiveness of the chosen model architecture and preprocessing techniques in accurately predicting the next sentence.
 
-*Contributions:*
+***Contributions:***
 
 Contributions to this project are welcomed and encouraged. Potential areas for contribution include:
 
