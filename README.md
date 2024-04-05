@@ -4,6 +4,7 @@ This project implements a next sentence predictor using LSTMs, achieving an accu
 
 ***Overview:***
 
+
 The Next Sentence Predictor project aims to predict the next sentence in a sequence using LSTM (Long Short-Term Memory) networks. This task is crucial in various natural language processing applications, including language modeling and text generation. The project utilizes techniques such as tokenization, TF-IDF vectorization, and word embeddings to preprocess the input data and trains a deep learning model to make accurate predictions.
 
 ***Technologies Used:***
